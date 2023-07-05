@@ -14,7 +14,7 @@ git branch: Enumera las ramas activas en el repositorio
 
 git add: se utiliza para agregar cambios en el repositorio local
 
-git commit: se utiliza para crear un nuevo commit en tu repositorio. Guarda los cambios realizados en el repositorio local en el historial de versiones, junto con un mensaje descriptivo que explica los cambios realizados
+git commit: Guarda los cambios realizados en el repositorio local en el historial de versiones, junto con un mensaje descriptivo que explica los cambios realizados
 
 git push: se utiliza para enviar los commits locales a un repositorio remoto. Actualiza el repositorio remoto con tus cambios locales
 
